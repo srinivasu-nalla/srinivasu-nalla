@@ -51,7 +51,7 @@ Intrested to learn about:
 
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b> &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasu-nalla&hide_border=true&theme=nightowl" />
@@ -67,5 +67,4 @@ Intrested to learn about:
 <img src="https://badges.pufler.dev/visits/srinivasu-nalla/srinivasu-nalla?color=black&logo=github" />
 <img src="https://badges.pufler.dev/repos/srinivasu-nalla?style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/gists/srinivasu-nalla?style=flat-square&color=black&logo=github">
-  </a>
 </p>
