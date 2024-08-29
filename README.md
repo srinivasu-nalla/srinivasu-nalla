@@ -6,6 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasnalla)
 [![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=c13584&logo=twitter&logoColor=white)](https://twitter.com/srinivasu_nalla)
 [![TechBlog](https://img.shields.io/badge/-Tech%20Blog-000?style=flat&logo=wordpress&logoColor=white)](https://srinalla.wordpress.com/)
+[![MyNotes](https://img.shields.io/badge/My%20%20Notes-8A2BE2)](https://github.com/srinivasu-nalla/DBA_srivasu#readme)
+
 
 <h3>About Me</h3>
 
@@ -14,13 +16,23 @@ I'm a Oracle DBA, with experience in manging oracle databases.
 
 ## ⚡ Focous Area is on 
 Intrested to learn about:
-- Networking,security in Cloud + Multicloud
-- Tunning
-- Backup & Recovery
-- Scripting
+- Cloud Skills : Cloud Tools , Networking & Security Skills + MultiCloud
+- Encryption, Backup & Recovery
+- Scripting & Tuning skills & Troubleshooting
+- New functionalities like Database In-Memory,Real time MV,JSON Support,REST API.
+- Autonomous Database & Cloud Skills : Data Modeling,Data Security & Application Tuning
 
 
+## ⚡ Must Have: Communication Skills
 
+- You communicate every day! 
+- You talk to colleagues
+- You write emails / texts
+- You present a solution
+- You discuss your ideas
+- You apply for new jobs
+
+Make sure that you communicate the best you can.
 
 <hr>
 <h3>⚡ Technologies</h3>
