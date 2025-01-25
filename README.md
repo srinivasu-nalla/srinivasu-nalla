@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=c13584&logo=twitter&logoColor=white)](https://twitter.com/srinivasu_nalla)
 [![TechBlog](https://img.shields.io/badge/-Tech%20Blog-000?style=flat&logo=wordpress&logoColor=white)](https://srinalla.wordpress.com/)
 [![MyNotes](https://img.shields.io/badge/My%20%20Notes-8A2BE2)](https://github.com/srinivasu-nalla/DBA_srivasu#readme)
-
+[![Feedback](https://img.shields.io/badge/Feedback-FF1A1A)](https://docs.google.com/forms/d/e/1FAIpQLSdXeD6bdgK9F0gbDj4uqZSXP-7SpVNkaI82JVMsPZkrr8_FKA/viewform?usp=header)
 
 <h3>About Me</h3>
 
